@@ -22,6 +22,10 @@ img {
   padding-bottom: 3em;
 }
 
+ol li :not(footer) {
+  font-weight: bold;
+}
+
 #justice {
   text-align: justify;
   font-size: 13px;
