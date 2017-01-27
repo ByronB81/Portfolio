@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.middle-high {
+  text-align: center;
+  margin-top: 2em;
+}
+
 .fancy {
   font-weight: bold;
   font-style: oblique;
@@ -47,8 +52,9 @@ ol li :not(footer) {
 }
 
 body {
-  background-color: gainsboro;
+  background-color: maroon;
 }
+
 
 #justice {
   text-align: justify;
