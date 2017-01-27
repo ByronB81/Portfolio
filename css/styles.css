@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.middle h1 {
+    margin-bottom: .3em;
+}
+
+.middle h3 {
+  font-weight: lighter;
+}
+
 .middle-high {
   text-align: center;
   margin-top: 2em;
@@ -10,6 +18,10 @@
 .fancy {
   font-weight: bold;
   font-style: oblique;
+}
+
+.light {
+  font-weight:500;
 }
 
 .small {
@@ -30,7 +42,7 @@
 }
 
 .well {
-  background-color: azure;
+  background-color: deepskyblue;
   padding-top: .3em;
 }
 
@@ -52,7 +64,7 @@ ol li :not(footer) {
 }
 
 body {
-  background-color: maroon;
+  background-color: darkorange;
 }
 
 
