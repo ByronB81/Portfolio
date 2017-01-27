@@ -2,10 +2,15 @@
   text-align: center;
 }
 
+.fancy {
+  font-weight: bold;
+}
+
 img {
   padding-bottom: 3em;
 }
 
 #justice {
   text-align: justify;
+  font-size: 13px;
 }
