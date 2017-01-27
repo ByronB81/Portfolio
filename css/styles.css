@@ -6,6 +6,10 @@
   font-weight: bold;
 }
 
+.small {
+  font-size: 13px;
+}
+
 img {
   padding-bottom: 3em;
 }
