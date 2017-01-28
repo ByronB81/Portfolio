@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a portfolio containing links to projects I've worked on as well as lists my education and experience. The purpose of this portfolio is hopefully to get hired_
+_This is a portfolio containing links to projects I've worked on as well as lists my education and experience. The purpose of this portfolio is hopefully to get hired_
 
 ## Setup/Installation Requirements
 
@@ -15,7 +15,7 @@ _{This is a portfolio containing links to projects I've worked on as well as lis
 * _Open file using web browser_
 * _Enjoy!_
 
-_You can also go to byronb81.github.io/Portfolio2_
+_You can also go to byronb81.github.io/Portfolio_
 
 ## Known Bugs
 
